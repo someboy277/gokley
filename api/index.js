@@ -6,9 +6,11 @@ const STRIP_HEADERS = new Set([
   "host",
   "connection",
   "keep-alive",
+  // #Alopepe
   "proxy-authenticate",
   "proxy-authorization",
   "te",
+  // #bankai
   "trailer",
   "transfer-encoding",
   "upgrade",
