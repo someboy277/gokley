@@ -18,7 +18,7 @@ const STRIP_HEADERS = new Set([
   "x-forwarded-host",
   "x-forwarded-proto",
   "x-forwarded-port",
-]);
+]);// #dcghmncghmcjhm
 
 export default async function handler(req) {
   if (!TARGET_BASE) {
@@ -62,3 +62,16 @@ export default async function handler(req) {
     return new Response("Bad Gateway: Tunnel Failed", { status: 502 });
   }
 }
+
+
+
+// #xchgjncjhm
+
+
+
+
+
+
+
+
+// #sfghcghj
